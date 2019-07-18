@@ -164,7 +164,7 @@ $(text4).blur(function() {
  	}
  });
 
-	//using vanilla js to change input type; since IE does not support, jquery forbids this change to keep consistence in all browsers
+//using vanilla js to change input type; since IE does not support, jquery forbids this change to keep consistence in all browsers
 
 var hideOrShow = document.getElementsByClassName("sym4c");
 
